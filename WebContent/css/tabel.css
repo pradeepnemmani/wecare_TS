@@ -1,0 +1,67 @@
+@CHARSET "ISO-8859-1";
+
+#box-table-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	width: 1100px;
+	text-align: left;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	height: 463px;
+	overflow : scroll;
+	
+	
+}
+#box-table-a th
+{
+	font-size: 14px;
+	font-weight: bold;
+	padding: 8px;
+	background: #3366ff;
+	border-top: 4px solid #aabcfe;
+	border-bottom: 1px solid #fff;
+	color: black;
+}
+#box-table-a td
+{
+	padding: 8px;
+	background: #e8edff; 
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid transparent;
+	vertical-align: top;
+	
+}
+#box-table-a tr:hover td
+{
+	background: #d0dafd;
+	color: #339;
+}
+
+p{
+	font-family: Garamound, Courier, Times New Roman;
+	font-size: 18px;
+	color: blue;
+}
+
+table{
+	border: solid, 5Px, black;
+	border: 5;
+}
+
+.copyright{
+	
+	font-family:  Courier, Times New Roman;
+	font-size: 10px;
+	color: grey;
+}
+
+#id1{
+	
+	font-family:  Courier, Times New Roman;
+	font-size: 25px;
+	color: grey;
+}
+
